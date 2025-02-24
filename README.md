@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,htmx,css,sass,tailwindcss,javascript,typescript,wasm,linux,nix,docker,postgresql,sqlite,redis,rabbitmq,rust,ruby,git,emacs&perline=8"  alt="html5 logo"  />
+    <img src="https://skillicons.dev/icons?i=html,htmx,css,sass,tailwindcss,javascript,typescript,wasm,bash,linux,nix,docker,postgresql,sqlite,redis,rabbitmq,rust,ruby,git,emacs&perline=8"  alt="html5 logo"  />
   </a>
 </div>
 
