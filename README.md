@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tristan and I make Computers do things.</h2>
+<h2 align="left">Hi 👋! My name is Tristan and I make computers do things.</h2>
 
 ###
 
