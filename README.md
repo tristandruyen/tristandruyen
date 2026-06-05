@@ -6,7 +6,7 @@
 <div align="center">
   <table><tbody>
     <tr border="none"><td width="100%" align="center">
-      <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=tristandruyen&locale=en&mode=weekly&theme=transparent"></td></tr>
+      <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app/?user=tristandruyen&locale=en&mode=weekly&theme=transparent&cachebust=12"></td></tr>
   </tbody></table>
 </div>
 
