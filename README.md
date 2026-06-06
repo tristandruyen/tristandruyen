@@ -5,8 +5,19 @@
 
 <div align="center">
   <table><tbody>
-    <tr border="none"><td width="100%" align="center">
-      <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app/?user=tristandruyen&locale=en&mode=weekly&theme=transparent&cachebust=123"></td></tr>
+    <tr border="none">
+      <td colspan="2" align="center">
+          <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app/?user=tristandruyen&locale=en&mode=weekly&theme=transparent&cachebust=123">
+      </td>
+    </tr>
+    <tr border="none">
+      <td width="50%" align="center">
+        <img align="center" src="https://my-stats-sable.vercel.app/api/?username=tristandruyen&hide_rank=true&theme=transparent&show_icons=true&count_private=true&hide_title=true"><br>
+      </td>
+      <td width="50%" align="center">
+        <img align="center" src="https://my-stats-sable.vercel.app/api/top-langs?username=tristandruyen&locale=en&hide_title=true&layout=pie&langs_count=8&exclude_repo=my-stats&hide=ruby&theme=transparent">
+      </td>
+    </tr>
   </tbody></table>
 </div>
 
